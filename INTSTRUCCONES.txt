@@ -1,0 +1,5 @@
+Arví Go es un juego de realidad aumentada el cual se puede jugar cooperativamente se adjuntan dos imagenes
+que al escanearlas con la camara del juego muestra un rendering 3d de cada animal y va a sumar 30 puntos al contador, al completar 
+90 puntos se termina el juego.
+
+ESTE JUEGO SOLO CORRE EN ANDROID!!!
